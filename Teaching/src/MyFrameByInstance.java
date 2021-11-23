@@ -12,7 +12,9 @@ public class MyFrameByInstance {
 
 		l1 = new Label("This is frame by instance");
 		f1.add(l1);
-
+		
+		
+		
 		f1.setVisible(true);
 
 	}
